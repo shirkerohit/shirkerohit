@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">I'm Rohit from Mumbai, Maharashtra, India <br><br>- 🔭 I’m a tech enthusiatic working as Full-stack backend developer
+<p align="center">I'm Rohit from Mumbai, Maharashtra, India <br><br>- 🔭 I’m a tech enthusiatic working as Tech Architech
 
 
 ###
@@ -32,27 +32,51 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" height="40" alt="laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="reactjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain-wordmark.svg" height="40" alt="GCP logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" height="40" alt="python" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/php/php-original.svg" height="40" alt="php" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/laravel/laravel-original-wordmark.svg" height="40" alt="laravel" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" height="40" alt="react" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/googlecloud/googlecloud-plain-wordmark.svg" height="40" alt="gcp" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" height="40" alt="java" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".net" />
+<img width="12" />
+
+<!-- AI / GenAI Stack -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
 </div>
 
 ###
